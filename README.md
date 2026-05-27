@@ -25,7 +25,7 @@
 <br>
 
 <div align="center">
-  <img src="https://files.catbox.moe/36vahk.png" width="200" height="200" style="border-radius:50%;border: 3px solid #00ffff;box-shadow: 0 0 30px #00ffff, 0 0 50px #0080ff;">
+  <img src="https://files.catbox.moe/unom3w.jpg" width="200" height="200" style="border-radius:50%;border: 3px solid #00ffff;box-shadow: 0 0 30px #00ffff, 0 0 50px #0080ff;">
 </div>
 
 <br>
