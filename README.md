@@ -36,7 +36,7 @@
 
 [![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)](https://github.com/Sila-Md/SILA-MD/archive/refs/heads/main.zip)
 [![Owner](https://img.shields.io/badge/👑_OWNER-243994601368-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243994601368)
-[![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-0029VbBG4gfISTkCpKxyMH02-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBG4gfISTkCpKxyMH02)
+[![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-0029Vb7jzev89indQZZ0RL3Z-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7jzev89indQZZ0RL3Z)
 [![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sila-Md/SILA-MD/fork)
 
 </div>
@@ -109,7 +109,7 @@
 | Skill | Level |
 |:------|:-----:|
 | **JavaScript** | ██████████ 100% |
-| **Baileys MD** | ██████████ 100% |
+| **Baileys GEDE** | ██████████ 100% |
 | **API Integration** | █████████░ 95% |
 | **Security** | ██████████ 98% |
 
@@ -162,7 +162,7 @@
 
 <div align="center">
 
-### **🌟 STAR THIS REPOSITORY IF YOU LIKE SILA MD! 🌟**
+### **🌟 STAR THIS REPOSITORY IF YOU LIKE GEDEON DEV! 🌟**
 
 [![Stars](https://img.shields.io/github/stars/Sila-Md/SILA-MD?style=for-the-badge&color=00ffff&logo=github)](https://github.com/Sila-Md/SILA-MD/stargazers)
 [![Forks](https://img.shields.io/github/forks/Sila-Md/SILA-MD?style=for-the-badge&color=0080ff&logo=github)](https://github.com/Sila-Md/SILA-MD/network/members)
@@ -170,7 +170,7 @@
 
 ---
 
-**💫 Built with ❤️ by [SILA TECH](https://github.com/Sila-Md) 💫**
+**💫 Built with ❤️ by [GEDEON DEV](https://github.com/Sila-Md) 💫**
 
 <br>
 
