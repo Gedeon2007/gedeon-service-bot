@@ -1,6 +1,6 @@
 <h1 align="center">
   <span style="font-size: 3em; background: linear-gradient(45deg, #00ffff, #0080ff, #00ffff); -webkit-background-clip: text; -webkit-text-fill-color: transparent; text-shadow: 0 0 30px #00ffff, 0 0 60px #0080ff;">
-    🚀 SILA MD WHISPER 🚀
+    🚀 GEDEON DEV 🚀
   </span>
 </h1>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <em style="color: #cccccc; font-size: 1.1em;">
-    Experience the future of WhatsApp automation with SILA MD - A powerful, feature-rich, and completely customizable multi-device WhatsApp bot designed for modern messaging needs.
+    Experience the future of WhatsApp automation with GEDEON DEV- A powerful, feature-rich, and completely customizable multi-device WhatsApp bot designed for modern messaging needs.
   </em>
 </p>
 
@@ -35,7 +35,7 @@
 <div align="center">
 
 [![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)](https://github.com/Sila-Md/SILA-MD/archive/refs/heads/main.zip)
-[![Owner](https://img.shields.io/badge/👑_OWNER-243994601368-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/255612491554)
+[![Owner](https://img.shields.io/badge/👑_OWNER-243994601368-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243994601368)
 [![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-0029VbBG4gfISTkCpKxyMH02-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBG4gfISTkCpKxyMH02)
 [![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sila-Md/SILA-MD/fork)
 
