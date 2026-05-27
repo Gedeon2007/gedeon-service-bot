@@ -35,7 +35,7 @@
 <div align="center">
 
 [![Download ZIP](https://img.shields.io/badge/📥_DOWNLOAD_ZIP-00ffff?style=for-the-badge&logo=zip&logoColor=black)](https://github.com/Sila-Md/SILA-MD/archive/refs/heads/main.zip)
-[![Owner](https://img.shields.io/badge/👑_OWNER-243994601368-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243994601368)
+[![Owner](https://img.shields.io/badge/👑_OWNER-GEDEON DEV-0080ff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/243994601368)
 [![Channel](https://img.shields.io/badge/📢_OFFICIAL_CHANNEL-0029VbBG4gfISTkCpKxyMH02-00ffff?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBG4gfISTkCpKxyMH02)
 [![Fork Repository](https://img.shields.io/badge/🍴_FORK_REPO-0080ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sila-Md/SILA-MD/fork)
 
