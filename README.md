@@ -170,7 +170,7 @@
 
 ---
 
-**💫 Built with ❤️ by [GEDEON DEV](https://github.com/Sila-Md) 💫**
+**💫 Built with ❤️ by [GEDEON DEV](https://github.com/Gedeon2007) 💫**
 
 <br>
 
